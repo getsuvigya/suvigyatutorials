@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: suvigya.tutorials.aws.fargate.proposal_generation_service.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s - in suvigya.tutorials.aws.fargate.proposal_generation_service.AppTest
